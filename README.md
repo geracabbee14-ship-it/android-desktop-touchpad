@@ -83,4 +83,4 @@ private val tapMaxDistance = 30f     // max pohyb prstu pro klik (px)
 ## Licence
 
 MIT – dělej si s tím co chceš.
-build
+build.
